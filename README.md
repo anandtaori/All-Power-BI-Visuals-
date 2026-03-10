@@ -6,10 +6,10 @@ All visuals generated from the dataset are compiled in **Chart.pdf** for easy vi
 
 ---
 
-## 📁 Files in this Repository
-
-- **DV Sales Data.xlsx** – Source dataset used for creating the visualizations  
-- **Chart.pdf** – Collection of all Power BI charts and dashboards
+## Files
+- **Sales Data.xlsx** – Source sales dataset
+- **Leads Data.xlsx** – Leads dataset used for funnel analysis
+- **Chart.pdf** – Collection of all Power BI charts and visuals
 
 ---
 
@@ -25,7 +25,9 @@ This project includes the following Power BI visuals:
 - Clustered Column Chart  
 - Line Chart  
 - Area Chart  
-- Ribbon Chart  
+- Ribbon Chart 
+- Line & Stacked Column Chart
+- Line & Clustered Column Chart
 - Scatter Chart (Sales vs Profit)  
 - Map Visualization (Sales by City)  
 - Table  
